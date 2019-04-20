@@ -5,13 +5,13 @@ layout: default
 weight: 7
 ---
 
-The source code is available from a git repository hosted at Sourceforge. You can check out the current head revision by
+The source code is available from a git repository hosted at GitHub. You can check out the current head revision by
 
-        >$ git clone http://git.code.sf.net/p/lensfun/code lensfun-code
+        >$ git clone https://github.com/lensfun/lensfun.git
 
 The build system is based on CMake. Enter the Lensfun folder and create the CMake build directory:
 
-        >$ cd lensfun-code/
+        >$ cd lensfun/
         >$ mkdir build
         >$ cd build/
         >$ cmake ../
