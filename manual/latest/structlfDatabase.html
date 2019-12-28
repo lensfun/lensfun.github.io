@@ -93,14 +93,14 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:afd7777230132f3fe92ebe668ab840299"><td class="memItemLeft" align="right" valign="top"><a class="el" href="group__Auxiliary.html#gaf84c98d42624e1181549de773ac49ad7">lfError</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlfDatabase.html#afd7777230132f3fe92ebe668ab840299">Load</a> (const char *pathname)</td></tr>
 <tr class="memdesc:afd7777230132f3fe92ebe668ab840299"><td class="mdescLeft">&#160;</td><td class="mdescRight">Load the database from specific path (directory or file).  <a href="#afd7777230132f3fe92ebe668ab840299">More...</a><br /></td></tr>
 <tr class="separator:afd7777230132f3fe92ebe668ab840299"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af94cc364e69c375c95c2d755f1085500"><td class="memItemLeft" align="right" valign="top"><a class="el" href="group__Auxiliary.html#gaf84c98d42624e1181549de773ac49ad7">lfError</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlfDatabase.html#af94cc364e69c375c95c2d755f1085500">Load</a> (const char *data, size_t data_size)</td></tr>
-<tr class="memdesc:af94cc364e69c375c95c2d755f1085500"><td class="mdescLeft">&#160;</td><td class="mdescRight">Load a database from memory.  <a href="#af94cc364e69c375c95c2d755f1085500">More...</a><br /></td></tr>
-<tr class="separator:af94cc364e69c375c95c2d755f1085500"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af417bcdf07f9fc904c414d204a6eb6e7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="group__Auxiliary.html#gaf84c98d42624e1181549de773ac49ad7">lfError</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlfDatabase.html#af417bcdf07f9fc904c414d204a6eb6e7">Load</a> (const char *xml, size_t data_size)</td></tr>
+<tr class="memdesc:af417bcdf07f9fc904c414d204a6eb6e7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Load a database from a XML char string.  <a href="#af417bcdf07f9fc904c414d204a6eb6e7">More...</a><br /></td></tr>
+<tr class="separator:af417bcdf07f9fc904c414d204a6eb6e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5685c8f2f59528bc5549a7971682de69"><td class="memItemLeft" align="right" valign="top"><a class="el" href="group__Auxiliary.html#gaf84c98d42624e1181549de773ac49ad7">lfError</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlfDatabase.html#a5685c8f2f59528bc5549a7971682de69">Save</a> (const char *filename) const </td></tr>
 <tr class="memdesc:a5685c8f2f59528bc5549a7971682de69"><td class="mdescLeft">&#160;</td><td class="mdescRight">Save the whole database to a file.  <a href="#a5685c8f2f59528bc5549a7971682de69">More...</a><br /></td></tr>
 <tr class="separator:a5685c8f2f59528bc5549a7971682de69"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab765ed5f02c4b28060cba75da7160995"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlfDatabase.html#ab765ed5f02c4b28060cba75da7160995">Save</a> () const </td></tr>
-<tr class="memdesc:ab765ed5f02c4b28060cba75da7160995"><td class="mdescLeft">&#160;</td><td class="mdescRight">Save the database into a memory array.  <a href="#ab765ed5f02c4b28060cba75da7160995">More...</a><br /></td></tr>
+<tr class="memdesc:ab765ed5f02c4b28060cba75da7160995"><td class="mdescLeft">&#160;</td><td class="mdescRight">Save the database into a XML char string.  <a href="#ab765ed5f02c4b28060cba75da7160995">More...</a><br /></td></tr>
 <tr class="separator:ab765ed5f02c4b28060cba75da7160995"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7ae1c0aee8485009e294e8776effad7a"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="structlfCamera.html">lfCamera</a> **&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlfDatabase.html#a7ae1c0aee8485009e294e8776effad7a">FindCameras</a> (const char *maker, const char *model) const </td></tr>
 <tr class="memdesc:a7ae1c0aee8485009e294e8776effad7a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Find a set of cameras that fit given criteria.  <a href="#a7ae1c0aee8485009e294e8776effad7a">More...</a><br /></td></tr>
@@ -554,7 +554,7 @@ static const char *const&#160;</td><td class="memItemRight" valign="bottom"><a c
 
 </div>
 </div>
-<a class="anchor" id="af94cc364e69c375c95c2d755f1085500"></a>
+<a class="anchor" id="af417bcdf07f9fc904c414d204a6eb6e7"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
@@ -562,7 +562,7 @@ static const char *const&#160;</td><td class="memItemRight" valign="bottom"><a c
           <td class="memname"><a class="el" href="group__Auxiliary.html#gaf84c98d42624e1181549de773ac49ad7">lfError</a> lfDatabase::Load </td>
           <td>(</td>
           <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>data</em>, </td>
+          <td class="paramname"><em>xml</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -578,10 +578,10 @@ static const char *const&#160;</td><td class="memItemRight" valign="bottom"><a c
       </table>
 </div><div class="memdoc">
 
-<p>Load a database from memory. </p>
+<p>Load a database from a XML char string. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">data</td><td>The XML data. </td></tr>
+    <tr><td class="paramname">xml</td><td>The XML data. </td></tr>
     <tr><td class="paramname">data_size</td><td>Data size in bytes. </td></tr>
   </table>
   </dd>
@@ -713,7 +713,7 @@ static const char *const&#160;</td><td class="memItemRight" valign="bottom"><a c
       </table>
 </div><div class="memdoc">
 
-<p>Save the database into a memory array. </p>
+<p>Save the database into a XML char string. </p>
 <dl class="section return"><dt>Returns</dt><dd>A pointer to an allocated string with the XML data. Free it with <a class="el" href="group__Auxiliary.html#ga675c7ad6ae2c3b98e46a60f3deda317b">lf_free()</a>. </dd></dl>
 
 </div>
