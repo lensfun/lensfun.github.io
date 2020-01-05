@@ -99,9 +99,12 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a5685c8f2f59528bc5549a7971682de69"><td class="memItemLeft" align="right" valign="top"><a class="el" href="group__Auxiliary.html#gaf84c98d42624e1181549de773ac49ad7">lfError</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlfDatabase.html#a5685c8f2f59528bc5549a7971682de69">Save</a> (const char *filename) const </td></tr>
 <tr class="memdesc:a5685c8f2f59528bc5549a7971682de69"><td class="mdescLeft">&#160;</td><td class="mdescRight">Save the whole database to a file.  <a href="#a5685c8f2f59528bc5549a7971682de69">More...</a><br /></td></tr>
 <tr class="separator:a5685c8f2f59528bc5549a7971682de69"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab765ed5f02c4b28060cba75da7160995"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlfDatabase.html#ab765ed5f02c4b28060cba75da7160995">Save</a> () const </td></tr>
-<tr class="memdesc:ab765ed5f02c4b28060cba75da7160995"><td class="mdescLeft">&#160;</td><td class="mdescRight">Save the database into a XML char string.  <a href="#ab765ed5f02c4b28060cba75da7160995">More...</a><br /></td></tr>
-<tr class="separator:ab765ed5f02c4b28060cba75da7160995"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51fd1e764d825fe630b2dacb67a99e21"><td class="memItemLeft" align="right" valign="top"><a class="el" href="group__Auxiliary.html#gac1e8a42306d8e67cb94ca31c3956ee78">DEPRECATED</a> char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlfDatabase.html#a51fd1e764d825fe630b2dacb67a99e21">Save</a> () const </td></tr>
+<tr class="memdesc:a51fd1e764d825fe630b2dacb67a99e21"><td class="mdescLeft">&#160;</td><td class="mdescRight">Save the database into a XML char string.  <a href="#a51fd1e764d825fe630b2dacb67a99e21">More...</a><br /></td></tr>
+<tr class="separator:a51fd1e764d825fe630b2dacb67a99e21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a58b6154acdf723d4e155a3ce19eff4f4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="group__Auxiliary.html#gaf84c98d42624e1181549de773ac49ad7">lfError</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlfDatabase.html#a58b6154acdf723d4e155a3ce19eff4f4">Save</a> (char *&amp;xml, size_t &amp;data_size) const </td></tr>
+<tr class="memdesc:a58b6154acdf723d4e155a3ce19eff4f4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Save the database into a XML char string. The memory of the received char string has to be released with <a class="el" href="group__Auxiliary.html#ga675c7ad6ae2c3b98e46a60f3deda317b">lf_free()</a>.  <a href="#a58b6154acdf723d4e155a3ce19eff4f4">More...</a><br /></td></tr>
+<tr class="separator:a58b6154acdf723d4e155a3ce19eff4f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7ae1c0aee8485009e294e8776effad7a"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="structlfCamera.html">lfCamera</a> **&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlfDatabase.html#a7ae1c0aee8485009e294e8776effad7a">FindCameras</a> (const char *maker, const char *model) const </td></tr>
 <tr class="memdesc:a7ae1c0aee8485009e294e8776effad7a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Find a set of cameras that fit given criteria.  <a href="#a7ae1c0aee8485009e294e8776effad7a">More...</a><br /></td></tr>
 <tr class="separator:a7ae1c0aee8485009e294e8776effad7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -700,12 +703,12 @@ static const char *const&#160;</td><td class="memItemRight" valign="bottom"><a c
 
 </div>
 </div>
-<a class="anchor" id="ab765ed5f02c4b28060cba75da7160995"></a>
+<a class="anchor" id="a51fd1e764d825fe630b2dacb67a99e21"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">char* lfDatabase::Save </td>
+          <td class="memname"><a class="el" href="group__Auxiliary.html#gac1e8a42306d8e67cb94ca31c3956ee78">DEPRECATED</a> char* lfDatabase::Save </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -715,6 +718,42 @@ static const char *const&#160;</td><td class="memItemRight" valign="bottom"><a c
 
 <p>Save the database into a XML char string. </p>
 <dl class="section return"><dt>Returns</dt><dd>A pointer to an allocated string with the XML data. Free it with <a class="el" href="group__Auxiliary.html#ga675c7ad6ae2c3b98e46a60f3deda317b">lf_free()</a>. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a58b6154acdf723d4e155a3ce19eff4f4"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="group__Auxiliary.html#gaf84c98d42624e1181549de773ac49ad7">lfError</a> lfDatabase::Save </td>
+          <td>(</td>
+          <td class="paramtype">char *&amp;&#160;</td>
+          <td class="paramname"><em>xml</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t &amp;&#160;</td>
+          <td class="paramname"><em>data_size</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Save the database into a XML char string. The memory of the received char string has to be released with <a class="el" href="group__Auxiliary.html#ga675c7ad6ae2c3b98e46a60f3deda317b">lf_free()</a>. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">xml</td><td>Reference to a char pointer where the XML string will be stored. </td></tr>
+    <tr><td class="paramname">data_size</td><td>Length of the written char string. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>LF_NO_ERROR or a error code. </dd></dl>
 
 </div>
 </div>
