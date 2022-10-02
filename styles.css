@@ -35,10 +35,6 @@ body {
   margin-bottom: 0.5em;
 }
 
-#navigation .active {
-  color: #74A0DA;
-}
-
 #top-navigation {
   margin-bottom: 1em;
 }
@@ -145,4 +141,8 @@ a:hover {
 a:active {
   background:transparent;
   color:#ffffff;
+}
+
+.active {
+  color: #74A0DA !important;
 }
