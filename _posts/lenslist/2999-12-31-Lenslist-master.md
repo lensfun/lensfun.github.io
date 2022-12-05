@@ -6,7 +6,7 @@ version_tag: develop
 ---
 
 {% include lenslist-overview.md %}
-This list was generated on 2022-11-17 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
+This list was generated on 2022-12-05 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
 <table border='1'><thead><tr><th>manufacturer</th><th>model</th><th>crop</th><th>dist.</th><th>TCA</th><th>vign.</th></tr></thead><tbody>
 <tr class="lenslist-bg1"><td>AEE</td><td>fixed lens</td><td>6.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td>Apple</td><td>fixed lens</td><td>6.118</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
@@ -608,6 +608,7 @@ This list was generated on 2022-11-17 from current Lensfun sources. Your Lensfun
 <tr class="lenslist-bg2"><td></td><td>Nikon AF-S Nikkor 600mm f/4E FL ED VR</td><td>1.0</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Nikon AF-S Nikkor 80-400mm f/4.5-5.6G ED VR</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Nikon AF-S VR Nikkor 400mm f/2.8G ED</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Nikon AF-S VR Zoom-Nikkor 200-400mm f/4G IF-ED</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Nikon AF-S VR Zoom-Nikkor 70-200mm f/2.8G IF-ED</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Nikon Lens Series E 100mm f/2.8</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Nikon Lens Series E 28mm f/2.8</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
