@@ -17,5 +17,5 @@ Lens calibration tutorials:
 
 * <a href="https://pixls.us/articles/create-lens-calibration-data-for-lensfun/">Andreas Schneider's tutorial and python scripts</a>
 * <a href="http://wilson.bronger.org/lens_calibration_tutorial/">Torsten Bronger's tutorial and supporting python scripts</a>
-* <a href="http://libregraphicsworld.org/blog/entry/creating-lens-distorsion-models-with-hugin-lens-calibrator">Hugin's lens calibrator tool</a>
+* <a href="https://web.archive.org/web/20201111221806/http://libregraphicsworld.org/blog/entry/creating-lens-distorsion-models-with-hugin-lens-calibrator">Hugin's lens calibrator tool</a>
 * <a href="/calibration-tutorial/lens-calibration.html">Original Lensfun tutorial on this website</a>
