@@ -2,6 +2,8 @@ This is the Lensfun website repository and its content will be automatically pub
 
 See the [GitHub Pages Help](https://help.github.com/en/categories/github-pages-basics) for further details how to use and configure this repo.
 
+This page also distributes the data to update the calibration data (lensfun-update-data). Every deployment with the Github Actions workflow updates the data and also builds the latest docs with Doxygen.
+
 ### Technical background ###
 
 The website is based on __Jekyll__ which is a static website generator. See http://jekyllrb.com/ for more information.
