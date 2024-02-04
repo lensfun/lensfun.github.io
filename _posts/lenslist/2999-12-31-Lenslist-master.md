@@ -6,7 +6,7 @@ version_tag: develop
 ---
 
 {% include lenslist-overview.md %}
-This list was generated on 2024-02-02 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
+This list was generated on 2024-02-04 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
 <table border='1'><thead><tr><th>manufacturer</th><th>model</th><th>crop</th><th>dist.</th><th>TCA</th><th>vign.</th></tr></thead><tbody>
 <tr class="lenslist-bg1"><td>7Artisans</td><td>7Artisans 35mm f/1.4 APS-C</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>7Artisans APS-C 60mm f/2.8 II</td><td>1.5</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
@@ -553,6 +553,7 @@ This list was generated on 2024-02-02 from current Lensfun sources. Your Lensfun
 <tr class="lenslist-bg2"><td></td><td>NIKKOR AF-S 28mm f/1.8G</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>NIKKOR AF-S 300mm f/4D IF-ED</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg2"><td></td><td>NIKKOR AF-S 300mm f/4E PF ED VR</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Nikkor AF-S 35mm f/1.4G</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>NIKKOR AF-S 35mm f/1.8G DX</td><td>1.528</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Nikkor AF-S 35mm f/1.8G DX</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>NIKKOR AF-S 35mm f/1.8G ED</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
