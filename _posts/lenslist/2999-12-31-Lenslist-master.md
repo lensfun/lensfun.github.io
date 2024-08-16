@@ -6,7 +6,7 @@ version_tag: develop
 ---
 
 {% include lenslist-overview.md %}
-This list was generated on 2024-08-15 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
+This list was generated on 2024-08-16 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
 <table border='1'><thead><tr><th>manufacturer</th><th>model</th><th>crop</th><th>dist.</th><th>TCA</th><th>vign.</th></tr></thead><tbody>
 <tr class="lenslist-bg1"><td>7Artisans</td><td>7Artisans 35mm f/0.95</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>7Artisans 35mm f/1.4 APS-C</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
@@ -1331,6 +1331,7 @@ This list was generated on 2024-08-15 from current Lensfun sources. Your Lensfun
 <tr class="lenslist-bg2"><td></td><td>Voigtländer Color-Skopar X 1:2,8/50</td><td>1.529</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Voigtländer HELIAR-HYPER WIDE 10mm F5.6</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Voigtländer Nokton 25mm f/0.95 Type II</td><td>2.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Voigtländer Nokton 58mm F1.4 SLII</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Voigtländer Skoparex 1:3,4/35</td><td>1.529</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Voigtländer Ultron 40mm f/2 SL-II Aspherical</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg1"><td>Yongnuo</td><td>Yongnuo YN 35mm f/2</td><td>1.62</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
