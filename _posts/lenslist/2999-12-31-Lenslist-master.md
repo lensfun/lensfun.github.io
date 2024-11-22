@@ -6,7 +6,7 @@ version_tag: develop
 ---
 
 {% include lenslist-overview.md %}
-This list was generated on 2024-11-20 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
+This list was generated on 2024-11-22 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
 <table border='1'><thead><tr><th>manufacturer</th><th>model</th><th>crop</th><th>dist.</th><th>TCA</th><th>vign.</th></tr></thead><tbody>
 <tr class="lenslist-bg1"><td>7Artisans</td><td>7Artisans 35mm f/0.95</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>7Artisans 35mm f/1.4 APS-C</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
@@ -1378,7 +1378,14 @@ This list was generated on 2024-11-20 from current Lensfun sources. Your Lensfun
 <tr class="lenslist-bg2"><td></td><td>Carl Zeiss Distagon T* 3,5/18 ZF.2</td><td>1.523</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Carl Zeiss Jena 135mm f/3.5</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Carl Zeiss Jena 1Q Biotar 1:2 f=58mm T</td><td>1.538</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Carl Zeiss Jena Biotar 58mm f/2</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Carl Zeiss Jena Flektogon 20mm f/4</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Carl Zeiss Jena Flektogon 35mm f/2.4</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Carl Zeiss Jena Flektogon 4/20mm</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Carl Zeiss Jena Pancolar 50mm f/1.8</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Carl Zeiss Jena Sonnar 135mm f/3.5</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Carl Zeiss Jena Tessar 50mm f/2.8</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Carl Zeiss Jena Triotar-v2 135mm f/4</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Carl Zeiss Planar T* 1,4/50 ZF.2</td><td>1.523</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Carl Zeiss Planar T* 1,4/50 ZF.2</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Carl Zeiss Sonnar T* 135mm F1.8 ZA (SAL135F18Z)</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
