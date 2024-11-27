@@ -6,7 +6,7 @@ version_tag: develop
 ---
 
 {% include lenslist-overview.md %}
-This list was generated on 2024-11-26 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
+This list was generated on 2024-11-27 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
 <table border='1'><thead><tr><th>manufacturer</th><th>model</th><th>crop</th><th>dist.</th><th>TCA</th><th>vign.</th></tr></thead><tbody>
 <tr class="lenslist-bg1"><td>7Artisans</td><td>7Artisans 35mm f/0.95</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>7Artisans 35mm f/1.4 APS-C</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
@@ -1286,6 +1286,7 @@ This list was generated on 2024-11-26 from current Lensfun sources. Your Lensfun
 <tr class="lenslist-bg1"><td></td><td>Tamron AF 18-270mm F/3.5-6.3 Di II VC PZD</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Tamron AF 19-35mm f/3.5-4.5</td><td>1.611</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Tamron AF 28-300mm f/3.5-6.3 XR Di LD Aspherical (IF)</td><td>1.53</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg1"><td></td><td>Tamron AF 28-300mm f/3.5-6.3 XR Di VC LD Aspherical (IF) Macro</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Tamron AF 70-300mm f/4-5.6 LD Macro 1:2</td><td>1.53</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Tamron AF 80-210mm f/4.5-5.6 280D</td><td>1.0</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Tamron E 17-28mm F2.8-2.8</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
