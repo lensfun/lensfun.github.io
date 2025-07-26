@@ -10,3 +10,13 @@ future: true
 safe: false
 
 exclude: [README.md]
+
+plugins:
+  - jekyll-feed
+
+feed:
+  posts_limit: 20
+  categories:
+    - news
+    - changelogs
+    - lenslist
