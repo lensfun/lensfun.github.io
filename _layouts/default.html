@@ -9,8 +9,16 @@
 {% include navigation.html %}
 
 <div id="content">
+  <header style="display: flex; justify-content: space-between; align-items: center;">
     <h1>{{page.title}}</h1>
-
+    {% if page.feedlink %}
+      <a href="{{ page.feedlink }}" title="RSS Feed">
+        <svg aria-label="RSS Feed" focusable="false" width="24" height="24" viewBox="0 0 24 24">
+          <use xlink:href="/imgs/rss-fill.svg#rss-fill"></use>
+        </svg>
+      </a>
+    {% endif %}
+  </header>
   <main>
     {{content}}
   </main>

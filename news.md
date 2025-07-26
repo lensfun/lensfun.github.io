@@ -3,6 +3,7 @@ title: News
 linktitle: News
 layout: default
 weight: 2
+feedlink: /feed/news.xml
 ---
 
 {% for post in site.categories.news %}
