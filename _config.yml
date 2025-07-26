@@ -18,5 +18,5 @@ feed:
   posts_limit: 20
   categories:
     - news
-    - changelogs
+    - changelog
     - lenslist
