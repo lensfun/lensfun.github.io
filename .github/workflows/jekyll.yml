@@ -46,7 +46,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Install doxygen, docutils-common
-        run: sudo apt update && sudo apt install doxygen docutils-common
+        run: sudo apt update && sudo apt install doxygen docutils-common libglib2.0-dev
       - name: Generate update db
         run: python lensfun-repo/tools/update_database/generate_db.py -i lensfun-repo/data/db/ -o db/
       - name: Build docs
