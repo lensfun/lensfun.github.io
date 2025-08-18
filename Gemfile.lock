@@ -63,8 +63,27 @@ GEM
     webrick (1.9.0)
 
 PLATFORMS
-  x86_64-darwin-20
-
+  aarch64-linux-android
+  aarch64-linux-gnu
+  aarch64-linux-musl
+  arm-linux-androideabi
+  arm-linux-gnu
+  arm-linux-gnueabihf
+  arm-linux-musl
+  arm-linux-musleabihf
+  arm64-darwin
+  riscv64-linux-android
+  riscv64-linux-gnu
+  riscv64-linux-musl
+  ruby
+  x86-linux-gnu
+  x86-linux-musl
+  x86_64-darwin
+  x86_64-linux
+  x86_64-linux-android
+  x86_64-linux-gnu
+  x86_64-linux-musl
+  
 DEPENDENCIES
   jekyll (~> 4.3.2)
   jekyll-feed
