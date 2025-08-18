@@ -26,4 +26,4 @@ For testing and to see and fix errors reported by Jekyll, one can also build the
 
       bundle exec jekyll serve
 
-* All web content can be found in the created `_site/` subfolder and may be  packaged into the documentation or uploaded to any web server. Use `bundle exce jekyll build` to only build without starting a local web server.
+* All web content can be found in the created `_site/` subfolder and may be  packaged into the documentation or uploaded to any web server. Use `bundle exec jekyll build` to only build without starting a local web server.
