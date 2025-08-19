@@ -94,6 +94,7 @@ body {
   margin-top: 1em;
   font-size: 80%;
   float: right;
+  clear: both;
 }
 
 .news-title {
