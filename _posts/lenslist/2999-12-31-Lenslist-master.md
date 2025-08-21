@@ -295,6 +295,7 @@ This list was generated on 2025-08-21 from current Lensfun sources. Your Lensfun
 <tr class="lenslist-bg1"><td></td><td>Fixed lens PowerShot SX510 HS</td><td>5.58</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Fixed lens Powershot SX60 HS</td><td>5.61</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Fixed lens PowerShot SX700 HS</td><td>5.6</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg1"><td></td><td>Sigma 16-300mm F3.5-6.7 DC OS | C</td><td>1.613</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td>Casio</td><td>Fixed lens EX-P700</td><td>4.65</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Fixed lens EX-P700</td><td>4.65</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Fixed lens EX-Z4</td><td>6.05</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
