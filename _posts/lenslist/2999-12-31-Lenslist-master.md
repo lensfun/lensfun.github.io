@@ -6,7 +6,7 @@ version_tag: develop
 ---
 
 {% include lenslist-overview.md %}
-This list was generated on 2025-08-21 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
+This list was generated on 2025-08-22 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
 <table border='1'><thead><tr><th>manufacturer</th><th>model</th><th>crop</th><th>dist.</th><th>TCA</th><th>vign.</th></tr></thead><tbody>
 <tr class="lenslist-bg1"><td>7Artisans</td><td>7Artisans 18mm f/6.3 II</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>7Artisans 35mm f/0.95</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
@@ -423,23 +423,23 @@ This list was generated on 2025-08-21 from current Lensfun sources. Your Lensfun
 <tr class="lenslist-bg1"><td></td><td>KM 24-105mm f/3.5-4.5 AF D</td><td>1.526</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>KM 28-100mm f/3.5-5.6 AF D</td><td>1.526</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>KM 80-200mm f/2.8</td><td>1.526</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
-<tr class="lenslist-bg2"><td>Leica</td><td>Apo-Summicron M 1:2/75mm ASPH.(11673/11701)</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
-<tr class="lenslist-bg2"><td></td><td>APO-Summicron-SL 1:2/35 ASPH.</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
-<tr class="lenslist-bg2"><td></td><td>APO-Summicron-SL 1:2/50 ASPH.</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
-<tr class="lenslist-bg2"><td></td><td>Elmarit-M 28mm f/2.8 ASPH</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
-<tr class="lenslist-bg2"><td></td><td>Elmarit-M 90mm f/2.8</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
-<tr class="lenslist-bg2"><td></td><td>Elmarit-TL 1:2.8/18 ASPH.</td><td>1.53</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td>Leica</td><td>APO-Summicron-M 1:2/75 Asph. (11673/11701)</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>APO-Summicron-SL 1:2/35 Asph.</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
+<tr class="lenslist-bg2"><td></td><td>APO-Summicron-SL 1:2/50 Asph.</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Elmarit-M 1:2.8/28 Asph.</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Elmarit-M 1:2.8/90</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Elmarit-TL 1:2.8/18 Asph.</td><td>1.53</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Fixed lens Digilux 2</td><td>3.933</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Fixed lens Q (Typ 116)</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Fixed lens Q2</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Fixed lens Q3 43</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Fixed lens X Vario (Typ 107)</td><td>1.53</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
-<tr class="lenslist-bg2"><td></td><td>Summicron M 1:2/35mm ASPH. (11879/11882)</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
-<tr class="lenslist-bg2"><td></td><td>Summicron-M 1:2/28 ASPH.</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
-<tr class="lenslist-bg2"><td></td><td>Summicron-M 50mm f/2</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
-<tr class="lenslist-bg2"><td></td><td>Summicron-TL 1:2/23 ASPH.</td><td>1.53</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
-<tr class="lenslist-bg2"><td></td><td>Summilux-TL 1:1.4/35 ASPH.</td><td>1.53</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
-<tr class="lenslist-bg2"><td></td><td>Vario-Elmarit-SL 1:2.8/24-70 ASPH.</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Summicron-M 1:2/28 Asph.</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Summicron-M 1:2/35 Asph. (11879/11882)</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Summicron-M 1:2/50</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Summicron-TL 1:2/23 Asph.</td><td>1.53</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Summilux-TL 1:1.4/35 Asph.</td><td>1.53</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg2"><td></td><td>Vario-Elmarit-SL 1:2.8/24-70 Asph.</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td>LG</td><td>fixed lens</td><td>6.34</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg2"><td>Mamiya</td><td>Mamiya 120mm f/32.0-4.0</td><td>0.644</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg2"><td></td><td>Mamiya 150mm f/32.0-3.5</td><td>0.644</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
