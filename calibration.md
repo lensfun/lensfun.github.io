@@ -15,7 +15,7 @@ Please upload your new profile to the <a href="https://github.com/lensfun/lensfu
 
 Lens calibration tutorials:
 
-* <a href="https://pixls.us/articles/create-lens-calibration-data-for-lensfun/">Andreas Schneider's tutorial and python scripts</a>
-* <a href="http://wilson.bronger.org/lens_calibration_tutorial/">Torsten Bronger's tutorial and supporting python scripts</a>
+* <a href="https://pixls.us/articles/create-lens-calibration-data-for-lensfun/">Andreas Schneider's tutorial and Python scripts</a>
+* <a href="https://wilson.bronger.org/lens_calibration_tutorial/">Torsten Bronger's tutorial, Python scripts</a> and <a href="https://wilson.bronger.org/calibration"> Calibration upload service</a>
 * <a href="https://librearts.org/2011/10/create-lens-distorsion-models-with-hugin-lens-calibrator/">Hugin's lens calibrator tool</a>
 * <a href="/calibration-tutorial/lens-calibration.html">Original Lensfun tutorial on this website</a>
