@@ -6,7 +6,7 @@ version_tag: develop
 ---
 
 {% include lenslist-overview.md %}
-This list was generated on 2026-09-05 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
+This list was generated on 2026-09-10 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
 <table border='1'><thead><tr><th>manufacturer</th><th>model</th><th>crop</th><th>dist.</th><th>TCA</th><th>vign.</th></tr></thead><tbody>
 <tr class="lenslist-bg1"><td>7Artisans</td><td>7Artisans 18mm f/5.6 Full Frame</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg1"><td></td><td>7Artisans 18mm f/6.3 II</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
@@ -1177,6 +1177,7 @@ This list was generated on 2026-09-05 from current Lensfun sources. Your Lensfun
 <tr class="lenslist-bg1"><td></td><td>Sigma 19mm f/2.8 DN</td><td>2.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Sigma 19mm f/2.8 EX DN</td><td>2.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Sigma 19mm f/2.8 EX DN</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg1"><td></td><td>Sigma 20-200mm F3.5-6.3 DG | Contemporary</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Sigma 20mm f/1.4 DG HSM | A</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Sigma 20mm f/1.8 EX DG</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Sigma 24-105mm f/4.0 DG OS HSM [A]</td><td>1.005</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
