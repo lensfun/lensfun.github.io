@@ -23,15 +23,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Checkout lensfun
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: lensfun/lensfun
           path: lensfun-repo
           fetch-depth: 0 # all history, so we can get the timestamp of last db update
       - name: Setup python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.x'
       - name: Install lxml
