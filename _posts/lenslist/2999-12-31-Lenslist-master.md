@@ -6,7 +6,7 @@ version_tag: develop
 ---
 
 {% include lenslist-overview.md %}
-This list was generated on 2026-10-28 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
+This list was generated on 2026-11-04 from current Lensfun sources. Your Lensfun version may be older, resulting in less coverage.
 <table border='1'><thead><tr><th>manufacturer</th><th>model</th><th>crop</th><th>dist.</th><th>TCA</th><th>vign.</th></tr></thead><tbody>
 <tr class="lenslist-bg1"><td>7Artisans</td><td>7Artisans 18mm f/5.6 Full Frame</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg1"><td></td><td>7Artisans 18mm f/6.3 II</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
@@ -597,6 +597,7 @@ This list was generated on 2026-10-28 from current Lensfun sources. Your Lensfun
 <tr class="lenslist-bg1"><td></td><td>Nikkor AF 80-200mm f/2.8 ED</td><td>1.523</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Nikkor AF 80-200mm f/2.8D ED</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Nikkor AF 80-400mm f/4.5-5.6D ED VR</td><td>1.528</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
+<tr class="lenslist-bg1"><td></td><td>Nikkor AF 80-400mm f/4.5-5.6D ED VR</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Nikkor AF 85mm f/1.8</td><td>1.523</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Nikkor AF 85mm f/1.8D</td><td>1.0</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td><td class="lenslist-check">no</td></tr>
 <tr class="lenslist-bg1"><td></td><td>Nikkor AF-P 10-20mm f/4.5-5.6G DX VR</td><td>1.534</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-highlight lenslist-check">yes</td><td class="lenslist-check">no</td></tr>
